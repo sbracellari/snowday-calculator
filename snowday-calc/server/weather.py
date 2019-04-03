@@ -54,7 +54,7 @@ def formula():
         elif temp_real > -5 and temp_real <= -1:
             value_real = 5
         elif temp_real == 0:
-            value_real = 20
+            value_real = 2
         elif temp_real > 0 and temp_real <= 4:
             value_real = 0
         elif temp_real > 4 and temp_real <= 9:
